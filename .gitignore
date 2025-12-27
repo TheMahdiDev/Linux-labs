@@ -1,0 +1,16 @@
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.old
+
+# OS generated
+.DS_Store
+Thumbs.db
